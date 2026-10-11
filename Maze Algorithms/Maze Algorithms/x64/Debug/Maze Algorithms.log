@@ -1,0 +1,4 @@
+﻿  Maze Algorithms.cpp
+E:\Maze Algorithms\Maze Algorithms\Maze Algorithms.cpp(291,17): warning C4566: character represented by universal-character-name '\U0001F9EA' cannot be represented in the current code page (1252)
+E:\Maze Algorithms\Maze Algorithms\Maze Algorithms.cpp(296,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Maze Algorithms.vcxproj -> E:\Maze Algorithms\x64\Debug\Maze Algorithms.exe
